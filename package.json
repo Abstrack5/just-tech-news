@@ -31,5 +31,8 @@
   "bugs": {
     "url": "https://github.com/Abstrack5/just-tech-news/issues"
   },
-  "homepage": "https://github.com/Abstrack5/just-tech-news#readme"
+  "homepage": "https://github.com/Abstrack5/just-tech-news#readme",
+  "devDependencies": {
+    "jest": "^28.1.1"
+  }
 }
