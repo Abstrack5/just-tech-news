@@ -6,4 +6,6 @@ make .env file
     DB_USER = 'MYSQL USER'
     DB_PASSWORD = 'MYSQL PASSWORD'
     
-    https://secure-bayou-94636.herokuapp.com/api
+```
+npm i express-session connect-session-sequelize
+```
